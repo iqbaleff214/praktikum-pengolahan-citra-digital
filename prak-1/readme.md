@@ -2,15 +2,24 @@
 
 Hasil _screenshot_:
 1.  Latihan 1
-![Latihan 1](http://1.bp.blogspot.com/_zoaE1vAiPmY/Sf2QFaiIeUI/AAAAAAAAAA8/HflVq6vrnV4/s320/2.bmp)
+
+    ![Latihan 1](http://1.bp.blogspot.com/_zoaE1vAiPmY/Sf2QFaiIeUI/AAAAAAAAAA8/HflVq6vrnV4/s320/2.bmp)
+
 2.  Latihan 2
-![Latihan 2](http://4.bp.blogspot.com/_zoaE1vAiPmY/Sf2QXB1AqII/AAAAAAAAABE/0SOzRF8K2Wo/s320/3.bmp)
+
+    ![Latihan 2](http://4.bp.blogspot.com/_zoaE1vAiPmY/Sf2QXB1AqII/AAAAAAAAABE/0SOzRF8K2Wo/s320/3.bmp)
+
 3.  Latihan 3
-![Latihan 3](http://3.bp.blogspot.com/_zoaE1vAiPmY/Sf2Qxy1ohNI/AAAAAAAAABM/FeBPNG3RmMw/s320/4.bmp)
+
+    ![Latihan 3](http://3.bp.blogspot.com/_zoaE1vAiPmY/Sf2Qxy1ohNI/AAAAAAAAABM/FeBPNG3RmMw/s320/4.bmp)
+
 4.  Latihan 4
-![Latihan 4](http://3.bp.blogspot.com/_zoaE1vAiPmY/Sf2RQTEGVmI/AAAAAAAAABU/IiCOH8KoNew/s320/5.bmp)
+
+    ![Latihan 4](http://3.bp.blogspot.com/_zoaE1vAiPmY/Sf2RQTEGVmI/AAAAAAAAABU/IiCOH8KoNew/s320/5.bmp)
+
 5.  Latihan 5
-![Latihan 5](http://2.bp.blogspot.com/_zoaE1vAiPmY/Sf2RuQcBXwI/AAAAAAAAABc/ZyW5fXhlNe8/s320/6.bmp)
+
+    ![Latihan 5](http://2.bp.blogspot.com/_zoaE1vAiPmY/Sf2RuQcBXwI/AAAAAAAAABc/ZyW5fXhlNe8/s320/6.bmp)
 
 Kesimpulan:
 
